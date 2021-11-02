@@ -1,7 +1,6 @@
 ## 个人简历
 
 You can use the [editor on GitHub](https://github.com/hebian1994/my_blog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
 访问地址：https://hebian1994.github.io/my_blog/
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
