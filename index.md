@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 个人简历
 
 You can use the [editor on GitHub](https://github.com/hebian1994/my_blog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -28,10 +28,10 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### 工作经历
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hebian1994/my_blog/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### 职责描述
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
